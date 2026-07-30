@@ -1,8 +1,14 @@
 
 # DOSW-Lab1-2026-2-PaulaDiaz-JuanMunar
 El contenido de este repositorio es la solución del laboratorio 1 realizado por Paula Díaz y Juan Munar.
-Hoja de vida de cada candidato
+Hoja de vida de cada candidato.
+
+
+
+
 Juan David Munar 
+<img width="1148" height="638" alt="Captura de pantalla 2026-07-30 a la(s) 9 35 09 a m" src="https://github.com/user-attachments/assets/ddc21235-7cd7-4d3f-b45a-3d4e035f8856" />
+<img width="1154" height="650" alt="Captura de pantalla 2026-07-30 a la(s) 9 34 58 a m" src="https://github.com/user-attachments/assets/f54f74e8-8040-446f-9ecf-90e151855824" />
 
 
 
