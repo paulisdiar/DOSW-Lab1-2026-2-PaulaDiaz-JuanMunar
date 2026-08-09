@@ -36,6 +36,6 @@ git stash pop recupera eso guardado y vuelve a mostrarlo
 
 HashMap permite guardar una clave null y valores null
 
-Hashtable No permite claves ni valores `null`.
+Hashtable No permite claves ni valores null
 
 
