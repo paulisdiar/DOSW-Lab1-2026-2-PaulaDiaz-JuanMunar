@@ -7,6 +7,8 @@ Utilice una expresión lambda para imprimir el saludo de bienvenida con nombre, 
 Construimos un modelo POO con la clase Estudiante, clase MensajeBienvenida y una clase principal Reto1. Usando Programación Funcional, se procesó la lista de integrantes mediante .stream(), transformando los datos con .map() para generar un mensaje de saludo unificado recopilado con .collect() y estructurado para que coincida con el propuesto en el ejemplo.
 
 Ejecución del programa 
+<img width="1964" height="574" alt="image" src="https://github.com/user-attachments/assets/e2dacb55-b125-4bae-8635-8fd74e66987c" />
+
 
 
 Reto #2: Carrera en paralelo
@@ -21,6 +23,7 @@ Ambos — Meta final: Fusionar todo en una función que reciba dos listas y devu
 Construimos una solución donde el Estudiante A (Carril 2) calculó el valor mínimo y la cantidad de elementos usando expresiones Lambda y .stream(), mientras que el Estudiante B (Carril 1) calculó el mayor elemento, resolviendo los conflictos de merge en Git.
 
 Ejecución del programa 
+<img width="2192" height="446" alt="image" src="https://github.com/user-attachments/assets/84246192-b6ac-4d1f-8e39-cafa2d71137e" />
 
 
 Reto #3:	La Máquina de los Códigos Secretos
@@ -38,6 +41,8 @@ REQUISITOS TÉCNICOS
 Implementamos una arquitectura de dos canales donde el Canal A utilizó StringBuilder para amplificar la señal repitiendo el mensaje 3 veces (Estudiante A) y el Canal B utilizó StringBuffer para invertir el texto (Estudiante B). Unificamos ambos canales invocando las funciones con expresiones Lambda y procesando las repeticiones con .stream() para generar el descifrado final.
 
 Ejecución del programa
+<img width="950" height="256" alt="image" src="https://github.com/user-attachments/assets/1b2eab3b-9eaf-416b-97db-3f314bfd7a98" />
+
 
 
 Reto #4:	El Tesoro de las Llaves Duplicadas	
@@ -54,6 +59,9 @@ REQUISITOS TÉCNICOS
 Almacenamos pares clave-valor ignorando duplicados (Estudiante A). Combinamos ambas estructuras priorizando los valore ante conflictos y procesamos las entradas mediante .stream(), .map() y .sorted() para convertir las claves a mayúsculas y ordenarlas alfabéticamente.
 
 Ejecución del programa
+<img width="888" height="290" alt="image" src="https://github.com/user-attachments/assets/3ab6efc1-54aa-49a3-9f14-de054752fa56" />
+
+
 
 #5	Batalla de Conjuntos	
 
@@ -69,6 +77,8 @@ REQUISITOS TÉCNICOS
 Almacenamos números en un HashSet eliminando los múltiplos de 3, mientras que en un TreeSet eliminamos los múltiplos de 5. Unimos ambas colecciones en un conjunto ordenado sin duplicados y procesamos la salida aplicando .stream(), .filter() y expresiones Lambda para imprimir los sobrevivientes en la arena.
 
 Ejecución del programa
+<img width="726" height="338" alt="image" src="https://github.com/user-attachments/assets/1ca3a080-8362-4c53-8742-aa519b9e9c13" />
+
 
 Reto #6:	La Máquina de Decisiones	
 
@@ -100,6 +110,8 @@ REQUISITOS TÉCNICOS
 Cada integrante implementó un fragmento de comandos mediante la estructura switch-case. Posteriormente, unificamos todos las acciones utilizando expresiones Lambda (`() -> accion()`), permitiendo ejecutar los comandos según las indicaciones 
 
 Ejecución del programa
+<img width="756" height="324" alt="image" src="https://github.com/user-attachments/assets/c19e424c-c37b-4da1-b0f8-1b55b0baeee3" />
+
 
 Reto #7:	El Juego del Calamar	
 
@@ -114,4 +126,11 @@ Premio: +50.000.000 wones por cada jugador eliminado en pruebas 1 y 2; +100.000.
 
 
 Diseñamos el modelo POO con la clase Jugador y evaluamos tres pruebas eliminatorias mediante Programación Funcional. La Prueba 1 eliminó jugadores con deuda superior a 170M usando .stream(), .filter() y .collect(). La Prueba 2 filtró asignaciones pares y la Prueba 3 filtró por longitud del nombre, calculando finalmente el premio acumulado para el ganador.
+
 Ejecución del programa
+<img width="1146" height="522" alt="image" src="https://github.com/user-attachments/assets/c8b859aa-e977-4a6d-b1fa-764208d710aa" />
+<img width="660" height="328" alt="image" src="https://github.com/user-attachments/assets/e987bb5d-7c04-422a-91ed-32f24cf7ee77" />
+
+
+
+
