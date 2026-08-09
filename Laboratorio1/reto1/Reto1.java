@@ -1,6 +1,7 @@
 package reto1;
 
 import java.util.Scanner;
+import reto1.Estudiante;
 
 public class Reto1 {
     public static void main(String[] args) {
@@ -27,7 +28,7 @@ public class Reto1 {
         int edadB = Integer.parseInt(sc.nextLine());
         System.out.println("correo: ");
         String correoB = sc.nextLine();
-    
+
         Estudiante estudianteB = new Estudiante(nombreB, semestreB, edadB, correoB);
 
         MensajeBienvenida mensaje = new MensajeBienvenida();

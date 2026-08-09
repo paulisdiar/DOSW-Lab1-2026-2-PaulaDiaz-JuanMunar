@@ -3,6 +3,7 @@ package reto1;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
+import reto1.Estudiante;
 
 public class MensajeBienvenida {
 
@@ -25,7 +26,10 @@ public class MensajeBienvenida {
         String correos = estudiantes.stream()
                 .map(Estudiante::getCorreo)
                 .collect(Collectors.joining(", "));
-        
+
         return "!Hola, bienvenidos! Somos la pareja conformada por " + info + "Nuestros correos son: " + correos;
     }
 }
+
+
+
