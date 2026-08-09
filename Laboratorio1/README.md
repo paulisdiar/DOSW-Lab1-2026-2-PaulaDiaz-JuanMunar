@@ -15,9 +15,9 @@ Juan David Munar
 
 
 
-Paula Alejandra Díaz 
+Paula Alejandra Díaz Arredondo
 
-
+Considero que soy una buena candidata para DOSW Company porque disfruto aprender, crear y enfrentar retos nuevos. Tengo una curiosidad constante por entender cómo funcionan las cosas y encontrar diferentes maneras de resolver problemas utilizando mi creatividad.
 
 <img width="1600" height="1545" alt="WhatsApp Image 2026-07-30 at 9 28 18 AM" src="https://github.com/user-attachments/assets/c8ceae86-c291-4b5f-9ae5-e25a9b05fccd" />
 <img width="1600" height="1419" alt="WhatsApp Image 2026-07-30 at 9 28 18 AM (1)" src="https://github.com/user-attachments/assets/d8ca4645-3ae1-44b6-9101-d974c1c2d411" />
