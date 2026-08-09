@@ -138,6 +138,8 @@ Durante la integración en develop, se presentaron tres bloqueos clave: una inte
 <img width="1094" height="602" alt="image" src="https://github.com/user-attachments/assets/4edc36f5-0bed-4ba8-a86e-6968a724f302" />
 <img width="1496" height="1328" alt="image" src="https://github.com/user-attachments/assets/31ef2d19-2c17-42fe-9d82-900d30fd201a" />
 <img width="1126" height="638" alt="image" src="https://github.com/user-attachments/assets/0b4f67ee-b061-4a14-9b15-c7b2b8294861" />
+<img width="2574" height="1678" alt="image" src="https://github.com/user-attachments/assets/a64b52de-65c1-411b-a0f5-6df49af13b28" />
+
 
 
 
