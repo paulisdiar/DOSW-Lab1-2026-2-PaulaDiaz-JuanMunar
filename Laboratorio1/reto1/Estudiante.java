@@ -1,33 +1,31 @@
-// Estudiante
+package reto1;
+
 public class Estudiante {
+    private final String nombre;
+    private final int semestre;
+    private final int edad;
+    private final String correo;
 
-    private String nombre;
-    private int edad;
-    private int semestre;
-    private String correo;
-
-    public Estudiante(String nombre, int edad, String correo, int semestre ) {
+    public Estudiante(String nombre, int semestre, int edad, String correo) {
         this.nombre = nombre;
-        this.edad = edad;
         this.semestre = semestre;
-        this.correo = correo;   
+        this.edad = edad;
+        this.correo = correo;
     }
+
     public String getNombre() {
         return nombre;
     }
-    
-    public int getEdad() {
-        return edad;
-    }
-    
+
     public int getSemestre() {
         return semestre;
     }
+
+    public int getEdad() {
+        return edad;
+    }
+
     public String getCorreo() {
         return correo;
     }
-  
 }
-
-
-
