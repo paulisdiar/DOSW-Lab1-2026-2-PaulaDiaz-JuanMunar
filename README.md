@@ -131,6 +131,15 @@ Ejecución del programa
 <img width="1146" height="522" alt="image" src="https://github.com/user-attachments/assets/c8b859aa-e977-4a6d-b1fa-764208d710aa" />
 <img width="660" height="328" alt="image" src="https://github.com/user-attachments/assets/e987bb5d-7c04-422a-91ed-32f24cf7ee77" />
 
+EVIDENCIAS DE CONFLICTO AL HACER MERGE:
+Durante la integración en develop, se presentaron tres bloqueos clave: una interrupción inicial en git pull por cambios locales no confirmados (resuelta aislando el código con git stash), conflictos de contenido en los Retos 1 al 7 por trabajo en paralelo, y un rechazo de git push debido a commits concurrentes en el remoto (solucionado ejecutando un git pull de integración final antes del envío definitivo).
+
+<img width="1626" height="1440" alt="image" src="https://github.com/user-attachments/assets/2476af17-af1b-4de3-93d4-604830ccd3c2" />
+<img width="1094" height="602" alt="image" src="https://github.com/user-attachments/assets/4edc36f5-0bed-4ba8-a86e-6968a724f302" />
+<img width="1496" height="1328" alt="image" src="https://github.com/user-attachments/assets/31ef2d19-2c17-42fe-9d82-900d30fd201a" />
+<img width="1126" height="638" alt="image" src="https://github.com/user-attachments/assets/0b4f67ee-b061-4a14-9b15-c7b2b8294861" />
+
+
 
 
 
