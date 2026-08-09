@@ -3,7 +3,6 @@ package reto1;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-import reto1.Estudiante;
 
 public class MensajeBienvenida {
 

@@ -1,19 +1,18 @@
 package reto7;
 
 public class Jugador {
-
     private int numero;
     private String nombre;
-    private long deuda;
-    private long premio;
-    private String estado;
+    private double deuda;
+    private double premio;
+    private String estado; // "ACTIVO", "ELIMINADO", "GANADOR"
 
-    public Jugador(int numero, String nombre, long deuda, long premio, String estado) {
+    public Jugador(int numero, String nombre, double deuda) {
         this.numero = numero;
         this.nombre = nombre;
         this.deuda = deuda;
-        this.premio = premio;
-        this.estado = estado;
+        this.premio = 0;
+        this.estado = "ACTIVO";
     }
 
     public int getNumero() {
@@ -24,12 +23,21 @@ public class Jugador {
         return nombre;
     }
 
-    public long getDeuda() {
+    public String getNombreCorto() {
+        String[] partes = nombre.split("\\s+");
+        return partes[partes.length - 1];
+    }
+
+    public double getDeuda() {
         return deuda;
     }
 
-    public long getPremio() {
+    public double getPremio() {
         return premio;
+    }
+
+    public void setPremio(double premio) {
+        this.premio = premio;
     }
 
     public String getEstado() {
